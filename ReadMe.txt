@@ -5,7 +5,7 @@ The game gives you six attempts to guess the 6-letter word of the day.
 There are 26 letters in the English alphabet, which means in theory, you should be able to cover 24 of the letters in 4 6-letter words.
 
 The aim of this programme is to parse through every word in the english language and generate a list of 6-letter words, where every letter in the word is unique.
-Once such a list is achieved, identify 4 words, each containing a different letters of the English alphabet. The programme should output this subarray(s) of 4 words.
+Once such a list is achieved, identify 4 words, each containing different letters of the English alphabet. The programme should output this subarray(s) of 4 words.
 
 Please see the attached python file for my take on solving this problem.
 
